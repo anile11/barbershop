@@ -1,3 +1,15 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+
+// reuse only 
+
+import React from 'react';
+
+let Mpage=()=>{
+    return(
+
+    )
+}
+export default Mpage;
